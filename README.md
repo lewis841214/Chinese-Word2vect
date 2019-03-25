@@ -5,3 +5,7 @@
 以下就進入Chinese word2vect實作的部分
 step1: text pasing 請點texr parsing 資料夾，裡面主要使用了中研院的斷詞系統以及subsampling
 step2: 帶入google 已經寫好的tensorflow code
+
+
+
+Beside this, if you are interesting in nce loss, i think i got a very intuitive and conprehensive explaination in the ppt attached(page. 23 and the following), so if you got any question, feel free to leave any message below.
